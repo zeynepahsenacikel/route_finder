@@ -38,5 +38,5 @@
 Algorithms: Recursive Backtracking, Dynamic Cost Analysis, Grid Traversal.
 
 
-📝 Project Context
+## 📝 Project Context
 Developed to demonstrate proficiency in algorithm design, specifically focusing on optimization problems and spatial data processing.
